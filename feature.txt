@@ -1,0 +1,6 @@
+Feature A: Trang ghi chú học tập
+- Thêm form tạo ghi chú (tiêu đề, nội dung, tag).
+- Lưu ghi chú vào localStorage để dùng offline.
+- Cho phép tìm kiếm theo từ khóa và tag.
+- Nút Export/Import JSON để sao lưu.
+- UI đơn giản, responsive trên mobile.
