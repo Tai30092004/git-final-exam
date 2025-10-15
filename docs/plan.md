@@ -11,3 +11,8 @@ cat > docs/plan.md << 'EOF'
 - Ngày 5: kết nối API giả (mock), xử lý fetch và render.
 - Ngày 6: viết README, cleanup code, thêm script chạy.
 - Ngày 7: tổng kết, ghi lại vấn đề gặp phải và cách giải quyết.
+
+## Tuần 3 - Ôn tập Git nâng cao
+## Tuần 3 - Ôn tập Git nâng cao
+- Học cách quản lý nhiều branch song song.
+- Rèn luyện kỹ năng giải quyết conflict.
