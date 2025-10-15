@@ -5,3 +5,10 @@ Tôi đến từ Cà Mau, hiện đang học tại trường đại học.
 Tôi muốn trở thành một lập trình viên giỏi trong tương lai.
 Sở thích của tôi là: chơi Valorant, nghe nhạc và học code.
 Kỹ năng: lập trình C++, HTML/CSS, và SQL.
+
+Kế hoạch học tập:
+Ôn tập lại toàn bộ kiến thức Git và GitHub.
+Hoàn thiện kỹ năng viết code sạch và có cấu trúc.
+Tìm hiểu thêm về Python và cơ sở dữ liệu.
+Tham gia dự án nhóm để rèn kỹ năng teamwork.
+Xây dựng một sản phẩm cá nhân hoàn chỉnh trong học kỳ này.
