@@ -1,7 +1,11 @@
+
 Hello, this is Tran Thanh Tai
+Xin chào, tôi là Tran Thanh Tai
+
 Tôi là Trần Thanh Tài, sinh viên ngành Công nghệ thông tin.
 Tôi yêu thích lập trình và khám phá công nghệ mới.
 Tôi đến từ Cà Mau, hiện đang học tại trường đại học.
 Tôi muốn trở thành một lập trình viên giỏi trong tương lai.
 Sở thích của tôi là: chơi Valorant, nghe nhạc và học code.
 Kỹ năng: lập trình C++, HTML/CSS, và SQL.
+Conflict resolved on 15/10/2025
